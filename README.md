@@ -11,3 +11,9 @@ Peliculas Favoritas
 2. El señor de los Anillos
 3. Gladiator
 4. 
+
+Carreras 
+1. Economia
+2. Psicologia
+3. Dctor
+
