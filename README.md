@@ -5,3 +5,9 @@ Numero de mienbros:
 2. Jhanela
 3. Miriam
 4. 
+
+Peliculas Favoritas
+1. Elysium
+2. El señor de los Anillos
+3. Gladiator
+4. 
